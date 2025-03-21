@@ -10,19 +10,19 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/manshi--tyagi/">
-    <img src="https://img.shields.io/badge/LinkedIn-FFD700?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40">
+    <img src="https://img.shields.io/badge/LinkedIn-FFD700?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35">
   </a>
   <a href="https://x.com/CodingMuse_X">
-    <img src="https://img.shields.io/badge/Twitter-DC143C?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" height="40">
+    <img src="https://img.shields.io/badge/Twitter-DC143C?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" height="35">
   </a>
   <a href="https://hashnode.com/@ManshiWrites">
-    <img src="https://img.shields.io/badge/Hashnode-5865F2?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" height="40">
+    <img src="https://img.shields.io/badge/Hashnode-5865F2?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" height="35">
   </a>
   <a href="https://thefullstacklens.hashnode.dev/">
-    <img src="https://img.shields.io/badge/Read-Blog-pink?color=%23C71585" alt="Blog" height="40">
+    <img src="https://img.shields.io/badge/Read-Blog-pink?color=%23C71585" alt="Blog" height="35">
   </a>
   <a href="https://discord.com/channels/@manshi_80799">
-    <img src="https://img.shields.io/badge/Discord-008000?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" height="40">
+    <img src="https://img.shields.io/badge/Discord-008000?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" height="35">
   </a>
 </p>
 
@@ -37,8 +37,7 @@
 <br>
 
 # 👩‍💻 Introduction  
-Welcome to the **JavaScript Projects Hub**! This repository showcases my hands-on learning and development journey with JavaScript. <br>
-Each project in this repository serves as a stepping stone in mastering JavaScript, and I hope they can be helpful for fellow developers looking to learn and grow!
+Welcome to the **JavaScript Projects Hub**! This repository showcases my hands-on learning and development journey with JavaScript. Each project in this repository serves as a stepping stone in mastering JavaScript, and I hope they can be helpful for fellow developers looking to learn and grow!
 
 <br>
 
@@ -53,17 +52,17 @@ Each project in this repository serves as a stepping stone in mastering JavaScri
 
 # 📂 Project List  
 
-### 1️⃣ **To-Do List App**  
-**Description:** A simple yet powerful to-do list application with local storage support.  
-**Live Demo:** [View Here](#) | **GitHub Repo:** [Source Code](#)  
+### 1️⃣ **Random Quote Generator**  
+**Description:** A simple web application that dynamically generates random quotes using an API.  
+**Live Demo:** [View Here](https://random-quote-hub.netlify.app/) | **GitHub Repo:** [Source Code](#)  
 
-### 2️⃣ **Weather App**  
-**Description:** Fetches real-time weather data from an API and displays it beautifully.  
-**Live Demo:** [View Here](#) | **GitHub Repo:** [Source Code](#)  
+### 2️⃣ **YouTube Video Listing**  
+**Description:** A simple web application that dynamically fetches and displays YouTube videos using an API. <br>
+**Live Demo:** [View Here](https://yt-video-listing.netlify.app/) | **GitHub Repo:** [Source Code](#)  
 
-### 3️⃣ **Calculator**  
-**Description:** A responsive calculator with standard arithmetic functions.  
-**Live Demo:** [View Here](#) | **GitHub Repo:** [Source Code](#)    
+### 3️⃣ **Daily Mood Tracker**  
+**Description:** A simple and interactive web application that allows users to log their daily moods and track emotional trends over time. <br>
+**Live Demo:** [View Here](https://daily-emotion-tracker.netlify.app/) | **GitHub Repo:** [Source Code](#)    
 
 <br>
 
