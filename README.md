@@ -37,8 +37,7 @@
 <br>
 
 # 👩‍💻 Introduction  
-Welcome to the **JavaScript Projects Hub**! This repository showcases my hands-on learning and development journey with JavaScript. It includes a collection of projects I have built while practicing JavaScript.
-These projects showcase my skills in vanilla JavaScript, DOM manipulation, ES6+, and more.
+Welcome to the **JavaScript Projects Hub**! This repository showcases my hands-on learning and development journey with JavaScript. <br>
 Each project in this repository serves as a stepping stone in mastering JavaScript, and I hope they can be helpful for fellow developers looking to learn and grow!
 
 <br>
