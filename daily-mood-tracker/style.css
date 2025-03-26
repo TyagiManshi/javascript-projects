@@ -1,0 +1,154 @@
+body {
+  font-family: Arial, sans-serif;
+  max-width: 900px;
+  margin: auto;
+  padding: 20px;
+  text-align: center;
+  background: linear-gradient(to right, #121212, #1e1e1e);
+  color: #f1f1f1;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 20px;
+}
+
+.tracker,
+.calendar-container {
+  flex: 1;
+  min-width: 300px;
+  background: #1c1c1c;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.6);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.tracker:hover,
+.calendar-container:hover {
+  transform: scale(1.02);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.8);
+}
+
+h2,
+h3 {
+  color: #ffeb3b;
+}
+
+select,
+button {
+  width: 100%;
+  padding: 12px;
+  margin: 10px 0;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+button {
+  background: linear-gradient(135deg, #6a11cb, #2575fc);
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background 0.3s ease, transform 0.2s ease;
+}
+
+button:hover {
+  background: linear-gradient(135deg, #2575fc, #6a11cb);
+  transform: scale(1.05);
+}
+
+.mood-log {
+  margin-top: 20px;
+  text-align: left;
+}
+
+.entry {
+  padding: 10px;
+  margin: 5px 0;
+  border-radius: 5px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 18px;
+  background: rgba(255, 255, 255, 0.1);
+  color: #f1f1f1;
+}
+
+.Happy {
+  background: #82ff34b8;
+  color: #333;
+}
+.Sad {
+  background: #3af3e4d1;
+  color: #272727;
+}
+.Neutral {
+  background: #6c6c6c;
+  color: #fff;
+}
+.Excited {
+  background: #e957f9;
+  color: white;
+}
+.Angry {
+  background: #ff291a9d;
+  color: white;
+}
+.Calm {
+  background: #81c784;
+  color: #272727;
+}
+
+.timeline {
+  margin-top: 20px;
+}
+
+.timeline button {
+  width: 30%;
+  margin: 5px;
+}
+
+.calendar-container {
+  text-align: center;
+  background: #1c1c1c;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.6);
+}
+
+.calendar {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  gap: 5px;
+  margin-top: 20px;
+}
+
+.calendar div {
+  padding: 10px;
+  text-align: center;
+  background: #2a2a2a;
+  border-radius: 5px;
+  font-weight: bold;
+  color: #f1f1f1;
+  transition: transform 0.2s ease, background 0.3s ease;
+}
+
+.calendar div:hover {
+  transform: scale(1.1);
+  background: #333;
+}
+
+@media (max-width: 768px) {
+  .container {
+    flex-direction: column;
+    align-items: center;
+  }
+  .tracker,
+  .calendar-container {
+    width: 100%;
+  }
+}
