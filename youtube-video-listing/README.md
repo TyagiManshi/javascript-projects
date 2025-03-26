@@ -14,7 +14,7 @@ A simple web application that dynamically fetches and displays YouTube videos us
 
 ## Screenshot  
 
-![Web View](https://github.com/TyagiManshi/youtube-video-listing/blob/main/screenshot.png)
+![Web View](./screenshot.png)
 
 ## Tech Stack  
 - **Frontend:** HTML, CSS, JavaScript  
