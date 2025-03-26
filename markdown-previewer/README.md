@@ -3,7 +3,7 @@
 A web application that allows users to write and preview **Markdown** in real time. It supports all standard Markdown elements using the `marked.js` library.  
 
 ## Live Demo  
-[View the Deployed App](#) 
+[View the Deployed App](https://markdown-previewer-by-manshi.netlify.app/) 
 
 ## Features  
 ✔️ Live **Markdown to HTML** conversion  
