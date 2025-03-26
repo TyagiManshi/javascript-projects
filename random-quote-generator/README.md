@@ -12,7 +12,7 @@ A simple web application that dynamically generates random quotes using an API.
 
 ## Screenshot
 
-![Web View](https://github.com/TyagiManshi/random-quote-generator/blob/main/screenshot.png)
+![Web View](./screenshot.png)
 
 ## Tech Stack  
 - **Frontend:** HTML, CSS, JavaScript  
