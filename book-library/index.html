@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Books Library</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+
+    <!-- Background Animation -->
+    <div class="gradient-background">
+        <div class="gradient-sphere sphere-1"></div>
+        <div class="gradient-sphere sphere-2"></div>
+        <div class="gradient-sphere sphere-3"></div>
+        <div class="glow"></div>
+        <div class="grid-overlay"></div>
+        <div class="noise-overlay"></div>
+        <div class="particles-container" id="particles-container"></div>
+    </div>
+
+    <div id="main-heading">
+        <h1>Books Library</h1>
+    </div>
+
+    <section>
+      <nav>
+        <div class="search-bar">
+          <input id="searchInput" placeholder="Search books by title or author" type="text" />
+          <button id="clearBtn">Clear</button>
+        </div>
+        <div class="sort-grid-holder">
+          <div class="sortholder">
+            <label for="sort">Sort by:</label>
+            <select id="select" name="sort" value="default">
+              <option value="default">default</option>
+              <option value="publishedDate">by released</option>
+              <option value="increasing">a-z</option>
+              <option value="descending">z-a</option>
+            </select>
+          </div>
+          <div class="grid-holder">
+            <button id="gridBtn" class="layoutBtn select">Grid</button>
+            <button id="listBtn" class="layoutBtn">List</button>
+          </div>
+        </div>
+      </nav>
+
+      <main id="bookContainer" class="grid"></main>
+      <div class="pagination">
+        <button id="prevBtn">Prev</button>
+        <p id="pageNo">0</p>
+        <button id="nextBtn">Next</button>
+      </div>
+    </section>
+
+    <script src="script.js"></script>
+  </body>
+</html>
