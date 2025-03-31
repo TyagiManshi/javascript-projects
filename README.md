@@ -54,15 +54,23 @@ Welcome to the **JavaScript Projects Hub**! This repository showcases my hands-o
 
 ### 1️⃣ **Random Quote Generator**  
 **Description:** A simple web application that dynamically generates random quotes using an API.  
-**Live Demo:** [View Here](https://random-quote-hub.netlify.app/) | **GitHub Repo:** [Source Code](#)  
+**Live Demo:** [View Here](https://random-quote-hub.netlify.app/) | **GitHub Repo:** [Source Code](https://github.com/TyagiManshi/javascript-projects/tree/main/random-quote-generator)  
 
 ### 2️⃣ **YouTube Video Listing**  
 **Description:** A simple web application that dynamically fetches and displays YouTube videos using an API. <br>
-**Live Demo:** [View Here](https://yt-video-listing.netlify.app/) | **GitHub Repo:** [Source Code](#)  
+**Live Demo:** [View Here](https://yt-video-listing.netlify.app/) | **GitHub Repo:** [Source Code](https://github.com/TyagiManshi/javascript-projects/tree/main/youtube-video-listing)  
 
 ### 3️⃣ **Daily Mood Tracker**  
 **Description:** A simple and interactive web application that allows users to log their daily moods and track emotional trends over time. <br>
-**Live Demo:** [View Here](https://daily-emotion-tracker.netlify.app/) | **GitHub Repo:** [Source Code](#)    
+**Live Demo:** [View Here](https://daily-emotion-tracker.netlify.app/) | **GitHub Repo:** [Source Code](https://github.com/TyagiManshi/javascript-projects/tree/main/daily-mood-tracker)   
+
+### 4️⃣ **Book Library**  
+**Description:** A dynamic Books Library web application that fetches book data from FreeAPI.app and displays it in a user-friendly interface. It allows users to search, sort, toggle views (list/grid), and paginate through book results. <br>
+**Live Demo:** [View Here](https://books-libraryy.netlify.app/) | **GitHub Repo:** [Source Code](https://github.com/TyagiManshi/javascript-projects/tree/main/book-library)   
+
+### 5️⃣ **Markdown Previewer**  
+**Description:** A web application that allows users to write and preview Markdown in real time. It supports all standard Markdown elements using the marked.js library. <br>
+**Live Demo:** [View Here](https://markdown-previewer-by-manshi.netlify.app/) | **GitHub Repo:** [Source Code](https://github.com/TyagiManshi/javascript-projects/tree/main/markdown-previewer)   
 
 <br>
 
